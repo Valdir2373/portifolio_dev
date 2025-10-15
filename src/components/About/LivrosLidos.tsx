@@ -1,4 +1,3 @@
-import React from "react";
 import LivroCard from "../CardBook";
 // Importações de assets: Mantendo o padrão de caminho que você usa
 import cc from "../../assets/livros/cc.jpg";

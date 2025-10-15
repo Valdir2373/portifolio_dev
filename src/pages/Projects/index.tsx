@@ -1,6 +1,5 @@
 // Projetos.tsx (Página principal de Projetos)
 
-import React from "react";
 // IMPORTAÇÃO DE LAYOUT E CARD:
 import Layout from "../../components/Layout/Layout"; // Ajuste o caminho do seu Layout
 import ProjectCard, {

@@ -1,7 +1,6 @@
 import Navbar from "../Navbar/Navbar";
 import { Footer } from "../Footer/Footer";
 import Header from "../Header/Header";
-import type { ReactNode } from "react";
 
 export default function Layout(
   props:

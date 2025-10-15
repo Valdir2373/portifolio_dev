@@ -1,4 +1,3 @@
-import React from "react";
 import { FaGithub, FaLinkedinIn, FaInstagram } from "react-icons/fa";
 
 export function Footer() {
@@ -52,11 +51,6 @@ export function Footer() {
           </div>
         </div>
       </div>
-      <style jsx="true">{`
-        .hover-blue:hover {
-          color: #00c6ff !important; /* Cor de destaque para o hover */
-        }
-      `}</style>
     </footer>
   );
 }

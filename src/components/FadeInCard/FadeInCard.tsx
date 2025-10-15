@@ -1,8 +1,6 @@
 // FadeInCard.js (CORRIGIDO)
 
-import React from "react";
-
-export default function FadeInCard({ children, cardTitle }) {
+export default function FadeInCard({ children, cardTitle }: any) {
   // Card com sombra (shadow-lg) e borda sutil (border-light)
   const cardClasses = "card shadow-lg border-light mb-4 mt-4";
 

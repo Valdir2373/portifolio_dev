@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function Header(props: { header1: string; header2?: string }) {
   const headersTrated = {
     h1: props.header1[0].toUpperCase() + props.header1.slice(1),

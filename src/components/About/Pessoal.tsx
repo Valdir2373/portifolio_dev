@@ -1,6 +1,5 @@
 // Pessoal.js (Componente de Conteúdo para a Aba "Pessoal" - Finalizado)
 
-import React from "react";
 // Assumindo que essas bibliotecas estão instaladas: npm install react-icons
 import { FaGithub, FaInstagram, FaLinkedinIn } from "react-icons/fa";
 

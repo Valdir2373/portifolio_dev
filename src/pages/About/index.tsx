@@ -16,7 +16,7 @@ const COR_TEXTO_INATIVO = "text-dark";
 export default function AboutMe() {
   const [abaAtiva, setAbaAtiva] = useState("pessoal");
 
-  const getAbaClasses = (aba) => {
+  const getAbaClasses = (aba: any) => {
     // Nav pills mais limpos, transição manual para hover (necessita de CSS)
     let classes = "nav-link btn btn-lg mx-2 px-4 transition-all duration-300";
 
