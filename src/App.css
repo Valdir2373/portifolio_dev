@@ -1,0 +1,7 @@
+/* Seu arquivo CSS global ou módulo de estilo */
+
+/* Efeito de flutuar (transform scale) no hover para o LivroCard */
+.cardHover:hover {
+  transform: translateY(-5px) scale(1.01); /* Move ligeiramente para cima e aumenta 1% */
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15) !important; /* Aumenta a sombra */
+}
